@@ -11,64 +11,64 @@
       "glyph": "grating",
       "label": "Grating regions",
       "role": "path",
-      "x": 0.22,
-      "y": 0.24
+      "x": 0.14,
+      "y": 0.32
     },
     {
       "id": "n2",
       "glyph": "laser",
       "label": "Display light",
       "role": "path",
-      "x": 0.5,
-      "y": 0.24
+      "x": 0.38,
+      "y": 0.32
     },
     {
       "id": "n3",
       "glyph": "plate",
       "label": "Glass",
       "role": "structure",
-      "x": 0.78,
-      "y": 0.24
+      "x": 0.62,
+      "y": 0.32
     },
     {
       "id": "n4",
       "glyph": "waveguide",
       "label": "TIR",
       "role": "path",
-      "x": 0.22,
-      "y": 0.52
+      "x": 0.86,
+      "y": 0.32
     },
     {
       "id": "n5",
       "glyph": "plate",
       "label": "Repeated partial coupling",
       "role": "structure",
-      "x": 0.5,
-      "y": 0.52
+      "x": 0.14,
+      "y": 0.7
     },
     {
       "id": "n6",
       "glyph": "grating",
       "label": "Controlled outcoupling",
       "role": "sense",
-      "x": 0.78,
-      "y": 0.52
+      "x": 0.38,
+      "y": 0.7
     },
     {
       "id": "n7",
       "glyph": "optic",
       "label": "Eyebox",
       "role": "path",
-      "x": 0.22,
-      "y": 0.8
+      "x": 0.62,
+      "y": 0.7
     },
     {
       "id": "n8",
       "glyph": "optic",
       "label": "Virtual image",
       "role": "path",
-      "x": 0.5,
-      "y": 0.8
+      "x": 0.86,
+      "y": 0.7
     }
   ],
   "edges": [
