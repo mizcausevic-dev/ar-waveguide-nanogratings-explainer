@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/ar-waveguide-nanogratings-explainer/
 
+Repository: https://github.com/mizcausevic-dev/ar-waveguide-nanogratings-explainer
+
 ## What this is
 
 An interactive anatomy plate for AR Waveguide Nanogratings. Play, scrub, or jump the five stages. The same frame always draws the same picture.
